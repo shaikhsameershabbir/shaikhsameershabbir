@@ -20,7 +20,7 @@
 </p>
 
 <!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=faizan2301&style=for-the-badge&color=667eea" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=shaikhsameershabbir&style=for-the-badge&color=667eea" alt="Profile Views"/>
 
 </div>
 
@@ -317,19 +317,19 @@ const sameer = {
 <div align="center">
   
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=faizan2301&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shaikhsameershabbir&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=faizan2301&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shaikhsameershabbir&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="30" /> GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=faizan2301&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=shaikhsameershabbir&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%"/>
 </div>
 
 ---
@@ -343,7 +343,7 @@ const sameer = {
 ---
 
 <!-- Snake Animation -->
-<img src="https://raw.githubusercontent.com/faizan2301/faizan2301/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/shaikhsameershabbir/shaikhsameershabbir/output/snake.svg" alt="Snake animation" />
 
 ---
 
