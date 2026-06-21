@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Shaikh%20Sameer%20Shabbir&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Full%20Stack%20Engineer%20%7C%20Node.js%20%7C%20React.js%20%7C%20Next.js&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+SaaS+platforms+%26+enterprise+applications+%F0%9F%9A%80;Backend-focused+Full+Stack+Engineer+with+4%2B+Years+Experience+%E2%9C%A8;Node.js+%7C+Express.js+%7C+React.js+%7C+Next.js+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=130&lines=Building+SaaS+%26+enterprise+apps+%F0%9F%9A%80;Backend-focused+Full+Stack+Engineer+%E2%9C%A8;Node.js+%7C+Express.js+%7C+React.js+%7C+Next.js+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 <!-- Social Badges -->
 <p>
@@ -28,46 +28,29 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" /> About Me
 
+Backend-focused **Full Stack Engineer** with **4+ years** of experience building SaaS platforms, enterprise applications, workflow automation systems, and scalable web applications.
+
+Experienced in backend development, API architecture, authentication and authorization, database optimization, cloud deployments, and production support. I deliver software from requirements gathering through deployment while collaborating with cross-functional teams.
+
 ```javascript
 const sameer = {
-    role: "Backend Engineer | Full Stack Engineer",
-    location: "Pune, Maharashtra, India 🇮🇳",
-    education: "B.E. Computer Science — Dr. Babasaheb Ambedkar Marathwada University",
+    role:     "Backend Engineer | Full Stack Engineer",
+    company:  "Coreline IT Solutions",
+    location: "Aurangabad, Maharashtra, India",
+    education:"B.E. Computer Science — BAMU University",
     experience: "4+ years",
-    currentFocus: "SaaS platforms, enterprise applications & workflow automation",
-
-    dailyRoutine: ["☕ Coffee", "💻 Code", "🔁 Repeat"],
-
-    techStack: {
-        languages: ["JavaScript (ES6+)", "TypeScript", "SQL"],
-        backend: ["Node.js", "Express.js", "REST APIs", "WebSockets", "JWT Authentication"],
-        frontend: ["React.js", "Next.js", "Redux Toolkit", "Tailwind CSS"],
-        databases: ["PostgreSQL", "MongoDB", "MySQL", "Prisma ORM"],
-        cloud: ["AWS EC2", "AWS S3", "Docker", "CI/CD", "DigitalOcean", "Cloudflare"],
-        tools: ["Git", "GitHub", "Postman", "Knex.js"],
-        backendEngineering: ["RBAC", "API Security", "Authentication & Authorization", "Workflow Automation"]
-    },
-
-    achievements: [
-        "Reduced system latency by 40% through backend refactoring & DB optimization",
-        "Built CI/CD pipelines improving release consistency across environments",
-        "Delivered enterprise SaaS platforms across education, HR & workflow automation",
-        "Improved media delivery performance by 60% via Cloudflare CDN integration"
-    ],
-
-    passionateAbout: "Delivering production-grade software from requirements through deployment",
-    funFact: "I debug with console.log and I'm not ashamed! 😄"
+    stack:    ["Node.js", "Express.js", "React.js", "Next.js", "PostgreSQL"],
+    askMeAbout: ["REST APIs", "JWT & RBAC", "SaaS Architecture", "CI/CD"],
+    code:     ["☕ Coffee", "💻 Code", "🔁 Repeat"],
+    funFact:  "I debug with console.log and I'm not ashamed!"
 };
 ```
 
-- 🔭 **Currently working at** [Coreline IT Solutions](https://www.corelineit.com) as Software Engineer
-- 🌱 **Building** tenant-aware backend architectures, JWT/RBAC systems, and scalable SaaS platforms
-- 💼 **4+ years** of experience across enterprise applications, workflow automation, and client delivery
-- 🎯 **Expertise** in API architecture, database optimization, cloud deployments, and production support
-- 🤝 **Open to** collaborations on innovative full-stack and backend-focused projects
-- ⚡ **Fun fact:** "The best way to predict the future is to create it."
-
-<br clear="both"/>
+- 🔭 **Currently working at** [Coreline IT Solutions](https://www.corelineit.com) as **Software Engineer**
+- 🌱 **Building** tenant-aware backends, JWT/RBAC systems, and scalable SaaS platforms
+- 🎯 **Expertise** in API design, database optimization, cloud deployments, and production support
+- 🤝 **Open to** collaborations on full-stack and backend-focused projects
+- ⚡ **Fun fact:** *"The best way to predict the future is to create it."*
 
 ---
 
