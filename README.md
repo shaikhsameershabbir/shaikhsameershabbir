@@ -1,10 +1,10 @@
 <div align="center">
   
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Shaikh%20Sameer%20Shabbir&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20|%20Node.js%20%7C%20React.js%20%7C%20Next.js&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Shaikh%20Sameer%20Shabbir&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Full%20Stack%20Engineer%20%7C%20Node.js%20%7C%20React.js%20%7C%20Next.js&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+scalable+enterprise+SaaS+applications+%F0%9F%9A%80;Full+Stack+Engineer+with+4%2B+Years+Experience+%E2%9C%A8;Node.js+%7C+React.js+%7C+Next.js+%7C+Multi-Tenant+Architecture+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+SaaS+platforms+%26+enterprise+applications+%F0%9F%9A%80;Backend-focused+Full+Stack+Engineer+with+4%2B+Years+Experience+%E2%9C%A8;Node.js+%7C+Express.js+%7C+React.js+%7C+Next.js+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 <!-- Social Badges -->
 <p>
@@ -30,41 +30,41 @@
 
 ```javascript
 const sameer = {
-    role: "Full Stack Engineer",
-    location: "Pune, India 🇮🇳",
+    role: "Backend Engineer | Full Stack Engineer",
+    location: "Pune, Maharashtra, India 🇮🇳",
     education: "B.E. Computer Science — Dr. Babasaheb Ambedkar Marathwada University",
     experience: "4+ years",
-    currentFocus: "Scalable enterprise applications, SaaS products & backend systems",
+    currentFocus: "SaaS platforms, enterprise applications & workflow automation",
 
     dailyRoutine: ["☕ Coffee", "💻 Code", "🔁 Repeat"],
 
     techStack: {
         languages: ["JavaScript (ES6+)", "TypeScript", "SQL"],
-        backend: ["Node.js", "Express.js", "NestJS", "REST APIs", "WebSockets"],
+        backend: ["Node.js", "Express.js", "REST APIs", "WebSockets", "JWT Authentication"],
         frontend: ["React.js", "Next.js", "Redux Toolkit", "Tailwind CSS"],
-        databases: ["PostgreSQL", "MongoDB", "MySQL"],
-        tools: ["Prisma", "Knex.js", "Docker", "Git", "CI/CD"],
-        cloud: ["AWS", "DigitalOcean", "Cloudflare"],
-        engineering: ["System Design", "Multi-Tenant Architecture", "API Security"]
+        databases: ["PostgreSQL", "MongoDB", "MySQL", "Prisma ORM"],
+        cloud: ["AWS EC2", "AWS S3", "Docker", "CI/CD", "DigitalOcean", "Cloudflare"],
+        tools: ["Git", "GitHub", "Postman", "Knex.js"],
+        backendEngineering: ["RBAC", "API Security", "Authentication & Authorization", "Workflow Automation"]
     },
 
     achievements: [
-        "Improved API performance by 40% through query optimization & indexing",
-        "Built CI/CD pipelines reducing deployment time by 60%",
-        "Led engineering team of 6 developers",
-        "Designed multi-tenant SaaS architecture with client data isolation"
+        "Reduced system latency by 40% through backend refactoring & DB optimization",
+        "Built CI/CD pipelines improving release consistency across environments",
+        "Delivered enterprise SaaS platforms across education, HR & workflow automation",
+        "Improved media delivery performance by 60% via Cloudflare CDN integration"
     ],
 
-    passionateAbout: "Delivering production-grade software from architecture to deployment",
+    passionateAbout: "Delivering production-grade software from requirements through deployment",
     funFact: "I debug with console.log and I'm not ashamed! 😄"
 };
 ```
 
-- 🔭 **Currently working at** [Coreline IT Solutions](https://www.corelineit.com) as Senior Software Engineer
-- 🌱 **Building** scalable enterprise SaaS applications, secure APIs & multi-tenant platforms
-- 💼 **4+ years** of experience across product-based companies and freelance contract work
-- 🎯 **Expertise** in Node.js, React.js/Next.js, system design & performance optimization
-- 🤝 **Open to** collaborations on innovative full-stack & SaaS projects
+- 🔭 **Currently working at** [Coreline IT Solutions](https://www.corelineit.com) as Software Engineer
+- 🌱 **Building** tenant-aware backend architectures, JWT/RBAC systems, and scalable SaaS platforms
+- 💼 **4+ years** of experience across enterprise applications, workflow automation, and client delivery
+- 🎯 **Expertise** in API architecture, database optimization, cloud deployments, and production support
+- 🤝 **Open to** collaborations on innovative full-stack and backend-focused projects
 - ⚡ **Fun fact:** "The best way to predict the future is to create it."
 
 <br clear="both"/>
@@ -79,24 +79,25 @@ const sameer = {
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 </details>
 
 <details open>
-<summary><b>⚙️ Backend</b></summary>
+<summary><b>⚙️ Backend Technologies</b></summary>
 <br/>
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge&logo=rest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RESTful_API-FF6B6B?style=for-the-badge&logo=rest&logoColor=white"/>
   <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Knex.js-E16428?style=for-the-badge&logo=knexdotjs&logoColor=white"/>
 </p>
 </details>
 
 <details open>
-<summary><b>🌐 Frontend</b></summary>
+<summary><b>🌐 Frontend Frameworks</b></summary>
 <br/>
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -107,12 +108,40 @@ const sameer = {
 </details>
 
 <details open>
-<summary><b>💾 Databases</b></summary>
+<summary><b>💾 Databases & ORM</b></summary>
 <br/>
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+</p>
+</details>
+
+<details open>
+<summary><b>🔐 Backend Engineering</b></summary>
+<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/RBAC-667EEA?style=for-the-badge&logo=shield&logoColor=white"/>
+  <img src="https://img.shields.io/badge/API_Security-FF6B6B?style=for-the-badge&logo=security&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Authentication-4285F4?style=for-the-badge&logo=auth0&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Workflow_Automation-009639?style=for-the-badge&logo=zapier&logoColor=white"/>
+</p>
+</details>
+
+<details>
+<summary><b>☁️ Cloud & DevOps</b></summary>
+<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
 </p>
 </details>
 
@@ -120,24 +149,10 @@ const sameer = {
 <summary><b>🛠️ Tools</b></summary>
 <br/>
 <p align="center">
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Knex.js-E16428?style=for-the-badge&logo=knexdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-</p>
-</details>
-
-<details>
-<summary><b>☁️ Cloud & Engineering</b></summary>
-<br/>
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
-  <img src="https://img.shields.io/badge/System_Design-667EEA?style=for-the-badge&logo=architecture&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Multi--Tenant-764BA2?style=for-the-badge&logo=server&logoColor=white"/>
-  <img src="https://img.shields.io/badge/API_Security-FF6B6B?style=for-the-badge&logo=security&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 </details>
 
@@ -145,70 +160,84 @@ const sameer = {
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="30" /> Professional Experience
 
-### Senior Software Engineer
+### Software Engineer
 **Coreline IT Solutions** | *February 2025 – Present*  
 📍 Pune, India
 
-- Architected backend services supporting enterprise SaaS applications and complex business workflows
-- Developed modular REST APIs supporting scalable and high-volume application operations
-- Built admin dashboards using React.js, Next.js and Tailwind CSS for workflow automation
-- Improved API performance by **40%** through query optimization and database indexing
-- Led engineering team of **6 developers** and contributed to technical design decisions
-- Implemented JWT, RBAC and secure authentication systems for controlled user access
-- Built CI/CD pipelines reducing deployment time by **60%** and improving release reliability
-- Developed multi-tenant backend modules supporting client data isolation and access controls
-- Integrated third-party APIs and enterprise service integrations across multiple products
-- Resolved production issues and performed performance tuning in live environments
+- Designed and implemented tenant-aware backend architectures supporting multiple client environments with secure data isolation
+- Improved API response times by optimizing database queries, indexing strategies, and backend processing workflows
+- Coordinated development efforts across multiple teams, participated in architectural discussions, conducted code reviews, and mentored junior developers
+- Built CI/CD pipelines that streamlined deployment processes and improved release consistency across environments
+- Implemented JWT authentication, RBAC authorization, and permission management across enterprise applications
+- Investigated and resolved production issues, improving application stability and reliability across multiple deployed systems
 
 ### Full Stack Developer
 **ARA Global** | *February 2023 – January 2025*  
 📍 Pune, India
 
-- Developed enterprise ERP platform supporting HR, payroll and reporting workflows
-- Built React.js dashboards for operational management and internal business users
-- Developed scalable backend APIs using Node.js supporting high-volume business workflows
-- Refactored legacy backend code reducing system latency by **40%**
-- Built real-time modules using WebSockets supporting event-driven application updates
-- Designed PostgreSQL and MongoDB schemas supporting scalable data management
-- Implemented structured logging and error handling improving system stability
-- Developed reusable backend modules improving feature delivery speed across projects
+- Delivered ERP modules supporting HR, payroll, attendance, reporting, and employee management workflows
+- Built 15+ React.js dashboards used by internal teams for operational and administrative workflows
+- Developed Node.js APIs supporting high-volume business operations and reporting workflows
+- Reduced system latency by **40%** through backend refactoring and database optimization initiatives
+- Implemented WebSocket-based real-time functionality supporting live updates across business modules
+- Designed PostgreSQL and MongoDB schemas supporting scalable data management and reporting requirements
+- Introduced structured logging and centralized error handling improving application stability
+- Built reusable backend components reducing implementation effort across multiple projects
 
-### Freelance Full Stack Developer (Contract Remote)
-**Independent** | *February 2022 – January 2023*  
+### Freelance Full Stack Developer (Remote Contract)
+**Self-Employed** | *February 2022 – January 2023*  
 📍 Remote
 
-- Delivered custom web applications and backend APIs for startup and small business clients
-- Built React.js frontends and Node.js backend services for client-facing solutions
-- Delivered admin dashboards, business websites and internal management tools
-- Designed relational database schemas and implemented backend business logic
-- Integrated authentication, payment workflows and third-party service APIs
-- Managed end-to-end project delivery including development, deployment and client handoff
+- Delivered 20+ custom websites, web applications, and backend systems for startups and small business clients
+- Built React.js frontends and Node.js backend services supporting client-facing business operations
+- Developed administration portals, management systems, and workflow automation solutions
+- Designed relational database schemas and implemented complex business processes
+- Integrated payment gateways, authentication systems, and third-party APIs
+- Managed complete software delivery lifecycle from requirements gathering to deployment
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="30" /> Key Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="30" /> Key Achievements
+
+- Improved API performance through indexing strategies, query optimization, and backend refactoring
+- Streamlined deployment workflows through CI/CD automation and release standardization
+- Contributed to the successful delivery of enterprise SaaS platforms across education, HR, workflow automation, and digital asset management domains
+- Collaborated with engineering teams to deliver production-grade applications from development through deployment
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="30" /> Selected Client Projects
 
 <table>
 <tr>
   <td width="50%">
-    <h3 align="center">📚 StudyPulse — Online Learning SaaS</h3>
+    <h3 align="center">📚 StudyPulse — Learning Management SaaS</h3>
     <p align="center">
-      Scalable online learning platform supporting exams, academic workflows and student performance management. Includes exam scheduling, automated result generation, role-based access for students/faculty/admins, subscription billing and analytics dashboards.
+      <strong>SaaS Platform</strong>
+    </p>
+    <p align="center">
+      SaaS learning platform supporting 30k+ students, faculty members, and administrators. Built examination workflows, role-based access controls, subscription billing, and analytics dashboards for institutional insights.
+    </p>
+    <p align="center">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
+    </p>
+  </td>
+  <td width="50%">
+    <h3 align="center">🎨 Design Editing Platform</h3>
+    <p align="center">
+      <strong>Digital Asset Generation</strong>
+    </p>
+    <p align="center">
+      Browser-based design platform supporting dynamic template editing and branded asset generation. Integrated Cloudflare CDN and storage improving media delivery performance by 60%.
     </p>
     <p align="center">
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
-    </p>
-  </td>
-  <td width="50%">
-    <h3 align="center">🎨 Indian Design Editing Platform</h3>
-    <p align="center">
-      Customizable design editing platform for branded templates and digital asset generation. Features real-time editing workflows, template rendering/export modules, Cloudflare CDN delivery and dynamic layer management for reusable template components.
-    </p>
-    <p align="center">
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white"/>
     </p>
   </td>
@@ -217,60 +246,30 @@ const sameer = {
   <td width="50%">
     <h3 align="center">🍔 POST EAT — Food Delivery Platform</h3>
     <p align="center">
-      Full-stack food delivery application supporting customers, restaurants and delivery partners. Built order tracking via WebSockets, order lifecycle services, menu/restaurant modules, payment checkout workflows and scalable backend for concurrent orders.
+      <strong>Full-Stack Application</strong>
+    </p>
+    <p align="center">
+      Full-stack food delivery platform supporting customers, restaurants, and delivery partners. Implemented real-time order tracking via WebSockets, order lifecycle workflows, and backend services supporting 100+ concurrent order operations.
     </p>
     <p align="center">
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
       <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socket.io&logoColor=white"/>
     </p>
   </td>
   <td width="50%">
     <h3 align="center">🌐 KT Guru — Knowledge Transfer SaaS</h3>
     <p align="center">
-      SaaS platform supporting remote knowledge transfer sessions for consultants and clients. Built live collaboration features, secure session access controls, permission-based participant management and backend services for concurrent multi-user sessions.
+      <strong>SaaS Platform</strong>
+    </p>
+    <p align="center">
+      SaaS platform supporting remote knowledge transfer and consulting sessions. Developed live collaboration features, secure session access controls, and permission-based participant management.
     </p>
     <p align="center">
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socket.io&logoColor=white"/>
-    </p>
-  </td>
-</tr>
-<tr>
-  <td width="50%">
-    <h3 align="center">👥 Enterprise HRMS & Payroll System</h3>
-    <p align="center">
-      Employee management and payroll modules supporting HR operational workflows. Includes attendance tracking, leave workflows with policy-based approvals, reporting dashboards and role-based access permissions for controlled user access.
-    </p>
-    <p align="center">
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
-    </p>
-  </td>
-  <td width="50%">
-    <h3 align="center">🏢 Multi-Tenant SaaS Admin Platform</h3>
-    <p align="center">
-      Multi-tenant SaaS architecture supporting isolated environments for multiple clients. Developed tenant-aware APIs, client workspace isolation modules, subscription/usage management workflows and scalable data models for tenant isolation.
-    </p>
-    <p align="center">
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
-    </p>
-  </td>
-</tr>
-<tr>
-  <td width="50%" colspan="2">
-    <h3 align="center">⚡ Workflow Automation Platform</h3>
-    <p align="center">
-      Enterprise workflow automation platform supporting approvals, routing and task execution. Built configurable business process flows, rule-based approval chains, process orchestration APIs and document/task lifecycle modules — improving operational efficiency through automation of repetitive business processes.
-    </p>
-    <p align="center">
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
     </p>
   </td>
 </tr>
@@ -282,7 +281,7 @@ const sameer = {
 
 ### Bachelor of Engineering in Computer Science
 **Dr. Babasaheb Ambedkar Marathwada University** | *Graduated 2023*  
-📍 Aurangabad, India
+📍 Aurangabad, Maharashtra, India
 
 ---
 
