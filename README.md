@@ -28,7 +28,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" /> About Me
 
-Backend-focused **Full Stack Engineer** with **4+ years** of experience building SaaS platforms, enterprise applications, workflow automation systems, and scalable web applications.
+Backend-focused **Full Stack Engineer** with **4+ years** of experience building SaaS platforms, enterprise applications, and scalable web applications.
 
 Experienced in backend development, API architecture, authentication and authorization, database optimization, cloud deployments, and production support. I deliver software from requirements gathering through deployment while collaborating with cross-functional teams.
 
@@ -39,7 +39,7 @@ const sameer = {
     location: "Aurangabad, Maharashtra, India",
     education:"B.E. Computer Science — BAMU University",
     experience: "4+ years",
-    stack:    ["Node.js", "Express.js", "React.js", "Next.js", "PostgreSQL"],
+    stack:    ["Node.js", "Express.js", "React.js", "Next.js", "Mongo DB","MySql","PostgreSQL"],
     askMeAbout: ["REST APIs", "JWT & RBAC", "SaaS Architecture", "CI/CD"],
     code:     ["☕ Coffee", "💻 Code", "🔁 Repeat"],
     funFact:  "I debug with console.log and I'm not ashamed!"
